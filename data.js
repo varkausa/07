@@ -407,7 +407,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "07 tour",
+  "name": "007 tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

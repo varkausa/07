@@ -24,50 +24,50 @@ var APP_DATA = {
       ],
       "faceSize": 1536,
       "initialViewParameters": {
-        "yaw": -0.6828487214836336,
+        "yaw": -0.0011393201016289822,
         "pitch": 1.5707963267948966,
-        "fov": 1.914702538512717
+        "fov": 1.9579259932755757
       },
       "linkHotspots": [
         {
-          "yaw": -1.3611382942084234,
-          "pitch": 1.1252818456195222,
-          "rotation": 0,
-          "target": "1-"
-        },
-        {
-          "yaw": -3.0726781080972856,
-          "pitch": 1.156434682269353,
-          "rotation": 0,
-          "target": "2-"
-        },
-        {
-          "yaw": 0.019408982276846842,
-          "pitch": 1.0840098635102517,
+          "yaw": 0.5516908790461539,
+          "pitch": 1.1757368279850589,
           "rotation": 0,
           "target": "3-"
         },
         {
-          "yaw": 1.6101403151793674,
-          "pitch": 1.0897937152387982,
+          "yaw": -0.574194042334037,
+          "pitch": 1.1984112073136863,
+          "rotation": 0,
+          "target": "1-"
+        },
+        {
+          "yaw": -2.317111431084358,
+          "pitch": 1.3110872673705103,
+          "rotation": 0,
+          "target": "2-"
+        },
+        {
+          "yaw": 2.157962529761722,
+          "pitch": 1.2524638090444338,
           "rotation": 0,
           "target": "4-"
         },
         {
-          "yaw": 2.228223300613978,
-          "pitch": 1.267587559870483,
-          "rotation": 0,
-          "target": "6-"
-        },
-        {
-          "yaw": 2.7160692392447086,
-          "pitch": 1.166867593098079,
+          "yaw": -2.9346572231747263,
+          "pitch": 1.3185074598437474,
           "rotation": 0,
           "target": "5--1"
         },
         {
-          "yaw": 0.9729688334665596,
-          "pitch": 1.0687342721115556,
+          "yaw": 2.682558371713476,
+          "pitch": 1.4341086238782843,
+          "rotation": 0,
+          "target": "6-"
+        },
+        {
+          "yaw": 1.4929527871593953,
+          "pitch": 1.1962777538792757,
           "rotation": 0,
           "target": "7--2"
         }
@@ -407,11 +407,11 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "007 tour",
+  "name": "07 tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
